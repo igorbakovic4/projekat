@@ -4,7 +4,7 @@
 Komanda pronalazi reci ili delove reci koje joj prosledimo u fajlu koji prosledimo.
 
 ### Kako se koristi
-Komanda se koristi pomocu komande ./find sa 2 argumenta: rec ili deo reci koji trazimo i putanja ka fajlu u kojem trazimo<br>
+Komanda se koristi pomocu komande ./find sa 2 argumenta: rec (ili deo reci koji trazimo) i putanja ka fajlu u kojem trazimo<br>
 ./find (STRING) (FAJL)
 
 Dodatne komande:<br>
