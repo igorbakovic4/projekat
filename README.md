@@ -3,8 +3,14 @@
 
 Komanda pronalazi reci ili delove reci koje joj prosledimo u fajlu koji prosledimo.
 
+### Kako se kompajlira
+
+Kompajlira se komandom gcc na sledeci nacin: <br>
+  --> <b>gcc find.c -o find</b> <--
+  <img src="/slike/0.png">
+
 ### Kako se koristi
-Komanda se koristi pomocu komande ./find sa 2 argumenta: rec (ili deo reci koji trazimo) i putanja ka fajlu u kojem trazimo<br>
+Komanda se koristi pomocu komande ./find sa 2 argumenta: rec (ili deo reci koji trazimo) i putanja ka fajlu u kojem trazimo, na sledeci nacin:<br>
 ./find (STRING) (FAJL)
 
 <img src="/slike/1.png">
